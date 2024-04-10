@@ -77,5 +77,10 @@ button {
 .equal {
     background-color: #0014c9;
     color: black;
-    grid-column: span 4;
+    grid-column: span 2;
+}
+
+.delete {
+    background-color: #def486;
+    color: #000;
 }
